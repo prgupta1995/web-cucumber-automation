@@ -1,0 +1,6 @@
+02:34:46.106 [main] INFO  resources.Base - User redirected to the Economist jobs page
+02:34:50.899 [main] INFO  resources.Base - Checkbox is selected successfully
+02:34:52.449 [main] INFO  resources.Base - -----Found jobs result-----Found 2 jobs using the term 'Director'
+02:34:58.554 [main] INFO  resources.Base - User redirected to the Economist jobs page
+02:35:02.594 [main] INFO  resources.Base - Email and password fields are filled successfully and clicked on signin button
+02:35:03.212 [main] INFO  resources.Base - User is successfully signed into the jobs Economist
